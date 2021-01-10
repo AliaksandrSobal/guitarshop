@@ -201,7 +201,7 @@ public class IndexController {
 
     private void SendEmail(String name, String phone, List<Product> products){
         String from = "sobolmladshij@gmail.com";
-        String pass = "12september99";
+        String pass = "***********";
         String[] to = { "sobolmladshij@gmail.com" };
         String subject = " New order ";
         String s = " : ";
